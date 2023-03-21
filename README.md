@@ -3,7 +3,7 @@
 ##
 
 <div>
-  <h5>Desenvolvedor Pleno cursando pós graduação em Engenharia de Software com Métodos Ágeis.</h5>
+  <h5>Desenvolvedor de Sistemas pós graduado em Engenharia de Software com Métodos Ágeis.</h5>
 </div>  
 
 ##
